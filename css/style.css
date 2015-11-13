@@ -8,14 +8,19 @@
 .box {
     height: 50px;
     width: 50px;
-    background-color: aquamarine;
+    background-color: transparent;
     float:left;
 }
 
 .endBox {
     height: 50px;
     width: 50px;
-    background-color: aquamarine;
+    background-color: transparent;
     float:left;
     clear:both;
+}
+
+button {
+    margin: 10px 50%;
+    text-align: center;
 }
