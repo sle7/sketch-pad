@@ -1,5 +1,4 @@
 .wrapper {
-    border: solid black;
     width: 800px;
     height: 800px;
     margin: 0 auto;
@@ -13,14 +12,10 @@
 }
 
 .endBox {
-    height: 50px;
-    width: 50px;
-    background-color: transparent;
-    float:left;
     clear:both;
 }
 
-button {
-    margin: 10px 50%;
+#buttons {
+    margin: 40px;
     text-align: center;
 }
